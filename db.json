@@ -25,12 +25,14 @@
       "updated_at": "null"
     }
   ],
-  "profile": {
-    "id": "1",
-    "first_name": "Jane",
-    "last_name": "Generoso",
-    "case_severity": "severe"
-  }
+  "profile": [
+    {
+      "id": "1",
+      "first_name": "Jane",
+      "last_name": "Generoso",
+      "case_severity": "severe"
+    }
+  ]
 }
 
 
