@@ -1,54 +1,29 @@
 {
-  "intakes": [
+  "morning_intake": [
     {
       "id": 1,
       "user_id": 1,
-      "img_url": "captures/img_001.jpg",
-      "created_at": "05-05-2024 19:00:00pm",
+      "prescription_id": 1,
+      "img_url": "captures/img_14537.jpg",
+      "created_at": "2024-05-05 09:12:04AM",
       "updated_at": "null"
     },
     {
       "id": 2,
       "user_id": 1,
-      "img_url": "captures/img_002.jpg",
-      "created_at": "05-06-2024 19:00:00pm",
+      "prescription_id": 2,
+      "img_url": "captures/img_43652.jpg",
+      "created_at": "2024-05-05 12:18:24PM",
       "updated_at": "null"
     },
     {
       "id": 3,
       "user_id": 1,
-      "img_url": "captures/img_003.jpg",
-      "created_at": "05-07-2024 19:00:00pm",
+      "prescription_id": 3,
+      "img_url": "captures/img_86435.jpg",
+      "created_at": "2024-05-05 19:54:11PM",
       "updated_at": "null"
     },
-    {
-      "id": 4,
-      "user_id": 1,
-      "img_url": "captures/img_004.jpg",
-      "created_at": "05-08-2024 19:00:00pm",
-      "updated_at": "null"
-    },
-    {
-      "id": 5,
-      "user_id": 1,
-      "img_url": "captures/img_005.jpg",
-      "created_at": "05-09-2024 19:00:00pm",
-      "updated_at": "null"
-    },
-    {
-      "id": 6,
-      "user_id": 1,
-      "img_url": "captures/img_006.jpg",
-      "created_at": "05-10-2024 19:00:00pm",
-      "updated_at": "null"
-    },
-    {
-      "id": 7,
-      "user_id": 1,
-      "img_url": "captures/img_007.jpg",
-      "created_at": "05-11-2024 19:00:00pm",
-      "updated_at": "null"
-    }
   ]
 }
 
